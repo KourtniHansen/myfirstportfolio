@@ -1,0 +1,17 @@
+/* CSS by Kourtni Hansen */
+/* Color Palette 
+light yellow: #FDF6EE
+green: #6A6B26
+light yellow: #FFF29F
+orange: #F29938
+red-orange: #E75A28
+*/
+
+/* GLOBAL (base) MOBILE FIRST*/
+    body {
+        font-family: Arial, sans-serif;
+        background-color: #FDF6EE;
+        color: #6A6B26;
+        margin: 0;
+        padding: 0;
+    }
